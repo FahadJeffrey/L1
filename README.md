@@ -5,30 +5,11 @@
 <title>Prototype 1</title>
 </head>
 <body>
-	<img src="C:\Users\fahad\Pictures\Camera Roll\t.png" height="550" width="1246" border="3">
 	<b><h1>
 	<p align="center">Hello,<br>
 	And welcome to
 	<i><u>Space Tyron.</u></i></p></h1>
 	<style>
-table.GeneratedTable {
-width:100%;
-background-color:#FFFFFF;
-border-collapse:collapse;border-width:1px;
-border-color:#336600;
-border-style:solid;
-color:#009900;
-}
-table.GeneratedTable td, table.GeneratedTable th {
-border-width:1px;
-border-color:#336600;
-border-style:solid;
-padding:3px;
-}
-table.GeneratedTable thead {
-background-color:#CCFF99;
-}
-</style>
 <p align="center">
 	<table  class="GeneratedTable">
 <thead>
