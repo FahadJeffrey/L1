@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Prototype 1</title>
+<title>Prototype 1</title>
 </head>
 <body>
 	<img src="C:\Users\fahad\Pictures\Camera Roll\t.png" height="550" width="1246" border="3">
@@ -11,11 +11,6 @@
 	And welcome to
 	<i><u>Space Tyron.</u></i></p></h1>
 	<style>
-        @keyframes spin {from {} to {transform:rotate(360deg);}}
-        .spin:hover {animation-name:spin;animation-duration:3s;position:absolute;}
-    </style>
-    <br><br><span class="spin"><! -------></span><a target="_blank" href="http://free-web-tools.com" style="text-decoration:none;bottom:0;left:10px;font-size:5pt;color:gray;position:absolute">web tools</a>    
-<style type="text/css" scoped>
 table.GeneratedTable {
 width:100%;
 background-color:#FFFFFF;
