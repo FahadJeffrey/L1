@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Prototype 1</title>
 </head>
 <body>
 	<b><h1>
@@ -39,16 +38,6 @@
 </table>
 </p>
 <div>
-<p style="color:white;background-color:orange;">This text has got different styles applied. But you can also over-ride these styles by using a 'span' element, like this.  Btw check this out.
-	<span style="color:black;">----> 
-		<p align="center">
-			<a href="C:\Users\fahad\Desktop\JEE Main\chemistry jeemain 2019.pdf">Click here to view the JEE Main Question papers with solutions</a>
-		</p>
-	</span>
-<p align="center">
-	<span style="background-color:red;color:lime;font-weight:bold;">Like it ?
-	</span>
-</p>
- </div>
+</div>
 </body>
 </html>
